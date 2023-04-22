@@ -5,7 +5,7 @@ This is a basic Hello World Program.
 I created this program to learn how to use Visual Studio Code linked with GitHub and Git. 
 
 Here is a one minute demo of the Hello World Program:
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EO5fShJRchY)
 
 # Development Environment
 * Python 3.11.3
